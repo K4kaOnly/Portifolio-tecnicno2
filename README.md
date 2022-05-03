@@ -21,4 +21,4 @@
 * https://docs.google.com/document/d/1R8fntvhs4XbmLGTfqOWspbaeYStc1C7RnVkkAzBFFZg/edit?usp=sharing
 
 ## *Modelagem de Sistemas*
-* 
+* https://github.com/K4kaOnly/Portifolio-tecnicno2/blob/main/MainProject%20(1)%20(1).zip
